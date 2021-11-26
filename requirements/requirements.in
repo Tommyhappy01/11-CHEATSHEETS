@@ -1,0 +1,8 @@
+bump2version
+cartopy==0.19.0.post1
+matplotlib==3.4.2
+pip-tools
+pre-commit
+scipy
+
+--no-binary shapely
